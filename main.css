@@ -179,3 +179,8 @@ input[type="reset"]:hover {
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0,0,0,.15);
 }
+.accordion {
+    width: 80%;
+    max-width: 800px;
+    margin: 20px auto 40px;
+}
